@@ -18,6 +18,11 @@
   ],
   lang: "en",
   region: "cn",
+  font-cjk:    ("HarmonyOS Sans SC", "HarmonyOS Sans Italic"),
+  font-latin:  ("HarmonyOS Sans", "HarmonyOS Sans Italic"),
+  font-code:   ("JetBrains Mono", "Consolas"),
+  font-emoji:  ("Segoe UI Emoji", "Noto Emoji",),
+  doc-footer:  text("ENDFIELD", weight: "bold") + text(" INDUSTRIES", size: 0.8em),
 )
 
 = Latin Text Testing
