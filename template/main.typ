@@ -23,6 +23,7 @@
   font-code:   ("JetBrains Mono", "Consolas"),
   font-emoji:  ("Segoe UI Emoji", "Noto Emoji",),
   doc-footer:  text("ENDFIELD", weight: "bold") + text(" INDUSTRIES", size: 0.8em),
+  show-outline: true,
 )
 
 = Latin Text Testing
